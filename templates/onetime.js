@@ -4,9 +4,9 @@ const carbone = require('carbone');
 // Data to inject
 var data = {
   number_of_contract : '01',
-  date_order : '26.03.2021',
+  date_order : '2021.03.06',
   passport : 'серия 5204 №997996 выдан УВД Кировского АО гОмск',
-  date_passport : '02.07.2004',
+  date_passport : '2004.07.02',
   inn : '084-699-854-45',
   bank_account : 'нужно уточнить',
   firstname : 'Антон',
@@ -14,8 +14,8 @@ var data = {
   patronymic : 'Васильевич',
   adress : '644074 Омск Конева 30-40',
   phone : '79961210675',
-  date_start : '26.03.2021',
-  date_stop : '29.03.2021',
+  date_start : '2021.03.26',
+  date_stop : '2021.03.29',
   requirements : 'Реализовать генерацию договора на разработку ПО из json структуры',
   req_1 : 'создать шаблон договора',
   req_2 : 'создать файл для с данными для заполнения шаблона',
@@ -23,7 +23,7 @@ var data = {
   cost : '15000',
   cost_in_words : 'пятнадцать тысяч рублей',
   email : 'ssuglazami@gmail.com',
-  date_accept : '29.03.2021'
+  date_accept : '2021.03.29'
   
 };
 
